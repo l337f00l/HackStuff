@@ -305,7 +305,8 @@ lvl112_2:
 lvl113_1:
 	db "", $00
 lvl113_2:
-	db "", $00
+	db "Collect the coin to get ammo for the shooter", $0A
+	db "Use the R button, Shoot the shell into the sprite killer", $00
 lvl114_1:
 	db "", $00
 lvl114_2:
