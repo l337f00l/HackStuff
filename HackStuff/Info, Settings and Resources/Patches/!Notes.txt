@@ -1,3 +1,0 @@
-The patches in the main /Optional/ folder here are those that I think many people might find valuable; but I still wanted to give you the option to include or not. I've tried to include a short description in each. 
-
-I have another folder of miscellaneous patches that I haven't included; but I have it upon request. These are a bit more niche, and some of them use FreeRAM or might be greater risks for potential incompatibilities with resources already in the baserom.

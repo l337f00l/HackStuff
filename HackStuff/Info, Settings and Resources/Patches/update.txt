@@ -1,5 +1,0 @@
-1/23/2016
-Fix a flaw that if you are crouching on a lakitu's cloud or p-balloon (the p-balloon crouch
-can be done by touching it while crouching), you can still go under stuff. This is due to the
-fact that $73 and $19 has “opposite” flags for a hitbox size: to have 16x32 hitbox, $73 has
-to be clear AND $19 has to be set. To have 16x16, have $19 be clear OR $73 set.
