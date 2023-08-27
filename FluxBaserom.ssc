@@ -20,7 +20,7 @@
 07 0032 0,0,400
 08 0020 Once on screen, it will cause fish cluster sprites to appear (purely decorative)
 08 0022 0,0,*Cluster Fish\nSpawner*
-09 0020 C:/Users/jlabontee/Desktop/!With Level Hub/Programs and Custom ASM/sprites/main/BallAndChain.asm
+09 0020 C:/Users/jlabo/OneDrive/Desktop/!With Level Hub/Programs and Custom ASM/sprites/main/BallAndChain.asm
 09 0022 0,0,1D6 16,16,1D6 32,32,1C4 32,48,1D4 48,32,1C5 48,48,1D5
 0A 0020 Moves up.
 0A 0022 0,0,34 16,0,35 0,16,44 16,16,45
@@ -112,3 +112,5 @@ ex4 - type (00-04)
 42 0022 0,-14,12 0,2,22
 42 0030 A Blue Shell.
 42 0032 0,1,32
+49 0020 This should be spawned automatically from its associated UberASM file; see the readme for more details
+49 0022 0,0,*Do Not\n Use! *

@@ -259,9 +259,12 @@ lvl107_1:
 lvl107_2:
 	db "", $00
 lvl108_1:
-	db "", $00
+	db "These green blocks won't let Mario pass", $0a
+	db "until you ditch Yoshi",$00
 lvl108_2:
-	db "", $00
+	db "Most levels have an explanation on what they ask of the player", $0a
+	db "Start and Select to exit a level, every pipe and door transition", $0a
+	db "is a midway and they save on the OW, Good Luck Have Fun - L337", $00
 lvl109_1:
 	db "", $00
 lvl109_2:
@@ -486,7 +489,7 @@ lvl13b_2:
 ; =============================================================================
 msg001:
 	%exitlevel($00)
-	db "Hi Chambo", $0a
+	db "These are some random levels I had kicking around", $0a
 	db "I apologize in advance, GLHF - L337", $00
 
 msg002:

@@ -58,6 +58,8 @@
 45 Feather.cfg
 46 CirclingThwomp.cfg
 47 Mushroom.cfg
+48 yi_pswitch.cfg
+49 meter/sprites/MeterSprite.json
 
 CLUSTER:
 00 ClusterFish.asm

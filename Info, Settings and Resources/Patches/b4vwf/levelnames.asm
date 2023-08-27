@@ -20,7 +20,7 @@ name006:
 	db "DONUT PLAINS 4", $00
 name007:
 	db "", $0a
-	db "What the Shell", $00
+	db "The P-Switch Level", $00
 name008:
 	db "", $0a
 	db "GREEN SWITCH PALACE", $00
@@ -47,7 +47,7 @@ name00f:
 	db "CHEESE BRIDGE AREA", $00
 name010:
 	db "", $0a
-	db "Morsel 1", $00
+	db "Fast and Furious", $00
 name011:
 	db "", $0a
 	db "SODA LAKE", $00
@@ -56,19 +56,19 @@ name012:
 	db "STAR ROAD", $00
 name013:
 	db "", $0a
-	db "Morsel 2", $00
+	db "Zanian's Level", $00
 name014:
 	db "", $0a
 	db "YELLOW SWITCH PALACE", $00
 name015:
 	db "", $0a
-	db "Arobam 1", $00
+	db "Platforming is Fun", $00
 name016:
 	db "", $0a
-	db "Arobam 2", $00
+	db "Fake Switch and Hot Snakes", $00
 name017:
 	db "", $0a
-	db "#2 MORTON'S PLAINS", $00
+	db "Old Skool", $00
 name018:
 	db "", $0a
 	db "SUNKEN GHOST SHIP", $00
@@ -159,7 +159,7 @@ name10f:
 	db "VALLEY OF BOWSER 4", $00
 name110:
 	db "", $0a
-	db "#7 LARRY'S CASTLE", $00
+	db "Dark Souls 2", $00
 name111:
 	db "", $0a
 	db "VALLEY FORTRESS", $00
@@ -204,7 +204,7 @@ name11e:
 	db "FOREST OF ILLUSION 1", $00
 name11f:
 	db "", $0a
-	db "FOREST OF ILLUSION 4", $00
+	db "Power Hurts", $00
 name120:
 	db "", $0a
 	db "FOREST OF ILLUSION 2", $00

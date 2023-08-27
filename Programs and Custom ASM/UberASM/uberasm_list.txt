@@ -19,12 +19,15 @@ level:
 1     Shell_Interaction.asm
 5     New_Interaction.asm
 6     New_Interaction.asm
-;7     Sticky_Interaction.asm
+7     nogroundpswitch.asm
 11E   New_Interaction.asm 
 ;13F   GoalTapeMoveLeft.asm
 106   buttonAmmoL.asm
 113   buttonAmmoL.asm
 11F   killpowerup.asm
+110   nopointdodge.asm
+111   carry_sprites.asm
+25    Pressure_Spawn.asm
 
 ; OW list. Valid values: 0 = Main map; 1 = Yoshi's Island; 2 = Vanilla Dome;
 ; 3 = Forest of Illusion; 4 = Valley of Bowser; 5 = Special World; and

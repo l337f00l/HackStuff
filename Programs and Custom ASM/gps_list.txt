@@ -88,6 +88,15 @@
 ;330:130 change_sprites_onoff.asm
 331 WarpToSpecifiedSublevel006.asm
 3D0 hurtwithcape.asm
+3D2 hurtwhenholdingblock.asm
+3D3 hurtwhenholdingblock.asm
+3D4 hurtwhenholdingblock.asm
+3E2 hurtwhenholdingblock.asm
+3E3 hurtwhenholdingblock.asm
+3E4 hurtwhenholdingblock.asm
+3F2 hurtwhenholdingblock.asm
+3F3 hurtwhenholdingblock.asm
+3F4 hurtwhenholdingblock.asm
 3F0 Switches/Bswitch.asm
 
 ; Additional non-global blocks, see especially level 129 (and ExGFX84)

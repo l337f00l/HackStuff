@@ -62,7 +62,16 @@
 3a5	0	Instantly teleports the player to the level that you specify in the file.
 3a6	0	A block that acts like a mid-air suspended Spiny.
 3d0	0	Stun the player when caped
+3d2	0	Hurts Mario if he is carrying an item
+3d3	0	Hurts Mario if he is carrying an item
+3d4	0	Hurts Mario if he is carrying an item
+3e2	0	Hurts Mario if he is carrying an item
+3e3	0	Hurts Mario if he is carrying an item
+3e4	0	Hurts Mario if he is carrying an item
 3f0	0	Sets the blue p-switch timer to max, and play the correct sound effect.
+3f2	0	Hurts Mario if he is carrying an item
+3f3	0	Hurts Mario if he is carrying an item
+3f4	0	Hurts Mario if he is carrying an item
 400	0	A block that bounces sprites up, but doesn't affect Mario.
 401	0	The top of the 1x2 key block.
 402	0	The top of the 1x3 key block.
