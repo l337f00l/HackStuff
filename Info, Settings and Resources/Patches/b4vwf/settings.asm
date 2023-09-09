@@ -68,19 +68,19 @@
 !OW_LINES = 2
 ; How wide a line is, in pixels.
 ; Wider lines take up more VRAM.
-!OW_WIDTH = 160
+!OW_WIDTH = 256
 
 ; Where the top and left of the level name should be on the screen, in pixels,
 ; (0, 0) = left edge, top of screen.
 ; Default is one row above SMW's space for level names.
-!OW_POS_X = 80
+!OW_POS_X = 16
 !OW_POS_Y = 14
 
 ; Set this to 1 to remove the walking Mario from the overworld.
 ; If you do this, you will probably want to change !OW_WIDTH
 ; and !OW_POS_X to take advantage of the new space
 ; (recommended: !OW_WIDTH = 28, !OW_POS_X = 16)
-!OW_REMOVE_MARIO = 0
+!OW_REMOVE_MARIO = 1
 
 ; Color number where the palette for message boxes goes.
 ; Valid values: $00, $04, $08, $0c, $10, $14, $18, $1c

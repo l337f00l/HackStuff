@@ -160,9 +160,14 @@ lvl021_1:
 lvl021_2:
 	db "", $00
 lvl022_1:
-	db "", $00
+	db "I approve of this level - phantomofares", $0a
+	db "This is all RZRiders fault, enjoy", $00
 lvl022_2:
-	db "", $00
+	db "You Guessed it Casio Water, you can spawn a", $0a 
+	db "throwblock "
+	db "with R and a shell with L however these ", $0a
+	db "nets will hurt you "
+	db "if you are holding any item, so GLHF", $00
 lvl023_1:
 	db "", $00
 lvl023_2:

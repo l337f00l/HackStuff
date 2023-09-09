@@ -101,7 +101,7 @@ name021:
 	db "CHOCO-GHOST HOUSE", $00
 name022:
 	db "", $0a
-	db "CHOCOLATE ISLAND 1", $00
+	db "RZ's fault", $00
 name023:
 	db "", $0a
 	db "CHOCOLATE ISLAND 3", $00
@@ -135,7 +135,7 @@ name107:
 	db "LEVELS", $00
 name108:
 	db "", $0a
-	db "STAR ROAD", $00
+	db "Info", $00
 name109:
 	db "", $0a
 	db "VANILLA SECRET 1", $00
@@ -162,7 +162,7 @@ name110:
 	db "Dark Souls 2", $00
 name111:
 	db "", $0a
-	db "VALLEY FORTRESS", $00
+	db "Grab all the Things", $00
 name112:
 	db "", $0a
 	db "", $00

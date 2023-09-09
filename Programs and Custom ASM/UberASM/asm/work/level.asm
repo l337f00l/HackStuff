@@ -39,12 +39,12 @@ freecode
 db "uber"
 level_asm_table:
 dl null_pointer
-dl $94C636
+dl $95809E
 dl null_pointer
 dl null_pointer
 dl null_pointer
-dl $94C668
-dl $94C668
+dl $95983B
+dl $95983B
 dl $93F9E1
 dl null_pointer
 dl null_pointer
@@ -55,7 +55,7 @@ dl null_pointer
 dl null_pointer
 dl null_pointer
 dl null_pointer
-dl $95808E
+dl $95985D
 dl null_pointer
 dl null_pointer
 dl null_pointer
@@ -72,10 +72,12 @@ dl null_pointer
 dl null_pointer
 dl null_pointer
 dl null_pointer
+dl $959AC0
+dl $94AE40
 dl null_pointer
+dl $959AC0
 dl null_pointer
 dl null_pointer
-dl $93D0EF
 dl null_pointer
 dl null_pointer
 dl null_pointer
@@ -297,10 +299,10 @@ dl null_pointer
 dl null_pointer
 dl null_pointer
 dl null_pointer
+dl $94C662
+dl $95D666
 dl null_pointer
 dl null_pointer
-dl $93FFDE
-dl $95F2C9
 dl null_pointer
 dl null_pointer
 dl null_pointer
@@ -308,12 +310,12 @@ dl null_pointer
 dl null_pointer
 dl null_pointer
 dl null_pointer
+dl $959BE3
+dl $95B715
 dl null_pointer
+dl $95D666
 dl null_pointer
-dl $958290
-dl $95982C
 dl null_pointer
-dl $95F2C9
 dl null_pointer
 dl null_pointer
 dl null_pointer
@@ -322,10 +324,8 @@ dl null_pointer
 dl null_pointer
 dl null_pointer
 dl null_pointer
-dl null_pointer
-dl null_pointer
-dl $94C668
-dl $948CC3
+dl $95983B
+dl $958299
 dl null_pointer
 dl null_pointer
 dl null_pointer
@@ -356,7 +356,7 @@ dl null_pointer
 dl null_pointer
 dl null_pointer
 dl null_pointer
-dl $94AE46
+dl $95B74F
 dl null_pointer
 dl null_pointer
 dl null_pointer
@@ -553,12 +553,12 @@ dl null_pointer
 
 level_init_table:
 dl null_pointer
-dl $94C621
+dl $958089
 dl null_pointer
 dl null_pointer
 dl null_pointer
-dl $94C653
-dl $94C653
+dl $959826
+dl $959826
 dl $93F9D6
 dl null_pointer
 dl null_pointer
@@ -569,7 +569,7 @@ dl null_pointer
 dl null_pointer
 dl null_pointer
 dl null_pointer
-dl $958089
+dl $959858
 dl null_pointer
 dl null_pointer
 dl null_pointer
@@ -589,7 +589,6 @@ dl null_pointer
 dl null_pointer
 dl null_pointer
 dl null_pointer
-dl $93D0EE
 dl null_pointer
 dl null_pointer
 dl null_pointer
@@ -813,9 +812,9 @@ dl null_pointer
 dl null_pointer
 dl null_pointer
 dl null_pointer
-dl $93FFDD
-dl $95F286
 dl null_pointer
+dl $94C661
+dl $95D623
 dl null_pointer
 dl null_pointer
 dl null_pointer
@@ -824,11 +823,11 @@ dl null_pointer
 dl null_pointer
 dl null_pointer
 dl null_pointer
-dl $958271
-dl $959813
 dl null_pointer
-dl $95F286
+dl $959BC4
+dl $95B6FC
 dl null_pointer
+dl $95D623
 dl null_pointer
 dl null_pointer
 dl null_pointer
@@ -838,7 +837,8 @@ dl null_pointer
 dl null_pointer
 dl null_pointer
 dl null_pointer
-dl $94C653
+dl null_pointer
+dl $959826
 dl null_pointer
 dl null_pointer
 dl null_pointer
@@ -869,7 +869,7 @@ dl null_pointer
 dl $93D422
 dl $93D422
 dl $93D422
-dl $93D09A
+dl $94EC8A
 dl null_pointer
 dl null_pointer
 dl null_pointer
@@ -1328,7 +1328,7 @@ dl null_pointer
 dl null_pointer
 dl null_pointer
 dl null_pointer
-dl $93FFF3
+dl $94C677
 dl null_pointer
 dl null_pointer
 dl null_pointer
@@ -1384,7 +1384,7 @@ dl null_pointer
 dl $93D41D
 dl $93D41D
 dl $93D41D
-dl $93D095
+dl $94EC85
 dl null_pointer
 dl null_pointer
 dl null_pointer

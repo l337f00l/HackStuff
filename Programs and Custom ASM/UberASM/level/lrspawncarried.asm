@@ -1,9 +1,9 @@
 ;Settings
 
-	!sprnum_L = $53		;Sprite # to spawn when pressing L
-	!custom_L = 0		;0 = not a custom sprite, 1 = custom sprite.
+	!sprnum_L = $42		;Sprite # to spawn when pressing L
+	!custom_L = 1		;0 = not a custom sprite, 1 = custom sprite.
 	
-	!sprnum_R = $DA		;Sprite # to spawn when pressing R
+	!sprnum_R = $53		;Sprite # to spawn when pressing R
 	!custom_R = 0		;0 = not a custom sprite, 1 = custom sprite.
 	
 	!cape = 0			;0 = cannot spawn item while flying, 1 = can spawn item while flying.

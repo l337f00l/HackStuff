@@ -27,7 +27,11 @@ level:
 11F   killpowerup.asm
 110   nopointdodge.asm
 111   carry_sprites.asm
-25    Pressure_Spawn.asm
+22    bucket_water.asm
+;23    lrspawncarried.asm
+23    LRSpawnCarried.asm
+;25    Pressure_Spawn.asm
+25     bucket_water.asm
 
 ; OW list. Valid values: 0 = Main map; 1 = Yoshi's Island; 2 = Vanilla Dome;
 ; 3 = Forest of Illusion; 4 = Valley of Bowser; 5 = Special World; and
