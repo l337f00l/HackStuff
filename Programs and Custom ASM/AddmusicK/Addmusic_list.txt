@@ -48,3 +48,4 @@ Locals:
 2E  High In The Sky.txt
 2F  StartropicsRestArea.txt
 30  Dr. Wily 4 (NES).txt
+31  Watery Depths.txt
