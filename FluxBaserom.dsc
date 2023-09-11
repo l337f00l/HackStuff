@@ -61,6 +61,7 @@
 3a4	0	Hurts or Kill if not holding a sprite
 3a5	0	Instantly teleports the player to the level that you specify in the file.
 3a6	0	A block that acts like a mid-air suspended Spiny.
+3a7	0	A block that acts like a stationary Swooper.
 3d0	0	Stun the player when caped
 3d2	0	Hurts Mario if he is carrying an item
 3d3	0	Hurts Mario if he is carrying an item

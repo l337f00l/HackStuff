@@ -85,6 +85,7 @@
 3A4 MustHold.asm
 3A5 WarpToSpecifiedSublevelEdited.asm
 3A6 spinyblock.asm
+3A7 swooperblock.asm
 ;330:130 change_sprites_onoff.asm
 331 WarpToSpecifiedSublevel006.asm
 3D0 hurtwithcape.asm
