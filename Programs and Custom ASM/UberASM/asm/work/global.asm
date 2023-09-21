@@ -18,32 +18,32 @@ freecode
 ; That's a special prot table for cleaning external data and codes.
 db "uber"
 prot_table:
-dl $959CE2
-dl $90FD24
-dl $908E25
-dl $96CB35
+dl $90F4E2
+dl $90F537
+dl $908E9F
+dl $96D21C
 dl $90981F
-dl $90F0A9
-dl $90F5C3
-dl $90F5A9
-dl $96D213
-dl $928B7D
-dl $95BEF6
-dl $96818E
-dl $98DEE0
-dl $95D71E
-dl $95F747
-dl $94E8B9
-dl $99D025
-dl $939F85
-dl $ADC369
-dl $9AEDE2
-dl $AC8C07
-dl $95FEA4
-dl $939F37
-dl $93A4C6
-dl $94FDF0
-dl $96A862
+dl $90F449
+dl $93851A
+dl $90F463
+dl $97B154
+dl $939EE5
+dl $959B34
+dl $95F66C
+dl $97F31D
+dl $95CDBE
+dl $939F53
+dl $93E4B2
+dl $98CD94
+dl $939EC1
+dl $AEECC9
+dl $99D050
+dl $ACFAA3
+dl $95F728
+dl $90F498
+dl $939F80
+dl $93D8EE
+dl $96B01D
 
 db "tool"
 	

@@ -60,6 +60,8 @@
 47 Mushroom.cfg
 48 yi_pswitch.cfg
 49 meter/sprites/MeterSprite.json
+50 P-SwitchDisassembly-timer.json
+51 SpriteStackWrapper-YI_Pswitch.cfg
 
 CLUSTER:
 00 ClusterFish.asm

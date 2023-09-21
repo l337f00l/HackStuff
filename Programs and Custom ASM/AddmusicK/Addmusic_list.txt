@@ -49,3 +49,4 @@ Locals:
 2F  StartropicsRestArea.txt
 30  Dr. Wily 4 (NES).txt
 31  Watery Depths.txt
+32  Forest Swag.txt

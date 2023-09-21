@@ -88,6 +88,8 @@
 3A7 swooperblock.asm
 ;330:130 change_sprites_onoff.asm
 331 WarpToSpecifiedSublevel006.asm
+3C1:130 sprite_solid.asm
+3C2:130 mario_solid.asm
 3D0 hurtwithcape.asm
 3D2 hurtwhenholdingblock.asm
 3D3 hurtwhenholdingblock.asm

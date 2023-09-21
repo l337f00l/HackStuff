@@ -114,3 +114,7 @@ ex4 - type (00-04)
 42 0032 0,1,32
 49 0020 This should be spawned automatically from its associated UberASM file; see the readme for more details
 49 0022 0,0,*Do Not\n Use! *
+50 0020 This is a POW/P-switch, which will be blue or silver depending on the extra bit. It's currently set to be blue. Without a patch, custom sprites are not preserved across sublevels, so if you take this through a pipe/door it will become a vanilla P-switch.
+50 0022 0,1,55
+50 0030 This is a POW/P-switch, which will be blue or silver depending on the extra bit. It's currently set to be silver. As of this writing, PIXI does not preserve custom sprite status across sublevels, so if you take this through a pipe/door it will become a vanilla P-switch.
+50 0032 0,1,65

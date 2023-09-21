@@ -17,10 +17,10 @@
 ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-!Switch_Effect_Time = $B0 ; How long the p-switch effect lasts
+!Switch_Effect_Time = $1A ; How long the p-switch effect lasts
 !Switch_Sfx_Number = $0B ; SFX number to load when you press the pswitch
 !Switch_Sfx_Bank = $1DF9 ; SFX bank to load SFX number into
-!Blue_Palette = $03 ; Which palette slot to use for blue pswitch. palette 08 in LM = 00, 09 -> 01, ect.
+!Blue_Palette = $04 ; Which palette slot to use for blue pswitch. palette 08 in LM = 00, 09 -> 01, ect.
 !Silver_Palette = $01 ; Which palette slot to use for silver pswitch. 
 
 ;; Draw properties

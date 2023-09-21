@@ -62,6 +62,8 @@
 3a5	0	Instantly teleports the player to the level that you specify in the file.
 3a6	0	A block that acts like a mid-air suspended Spiny.
 3a7	0	A block that acts like a stationary Swooper.
+3c1	0	Solid for sprites, but allows Mario to pass
+3c2	0	Solid for Mario, but allows sprites to pass. If you don't like the look of the normal yellow sprite-pass block, I've also included a block graphic in the same style as the red light switch, set to act the same as this.
 3d0	0	Stun the player when caped
 3d2	0	Hurts Mario if he is carrying an item
 3d3	0	Hurts Mario if he is carrying an item
