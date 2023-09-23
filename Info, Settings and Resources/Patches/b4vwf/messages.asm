@@ -33,7 +33,7 @@ lvl006_2:
 lvl007_1:
 	db "", $00
 lvl007_2:
-	db "", $00
+	db "The P-Switches activate the ground in this level", $00
 lvl008_1:
 	%exitlevel($04) ; green switch palace
 	; use colors $78-$7b of the level palette for this message
